@@ -1,0 +1,2 @@
+# quoridorServer
+### a Sails application
